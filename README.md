@@ -1,4 +1,4 @@
-### Olá pessoal, me chamo Yuri!  👋 <br><br>
+### Olá, me chamo Yuri!  <br><br>
  
 Estudo análise de dados e procuro aprender mais sobre como extrair conhecimento dos dados.<br><br>
 As ferramentas que utilizo são:<br><br>
