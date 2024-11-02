@@ -1,6 +1,5 @@
-Bem-vindo ao meu perfil do GitHub! Sou um profissional focado em **Análise de Dados**, com interesse em várias ferramentas e linguagens de programação para explorar, processar e visualizar dados de forma eficaz.
-
 ## Sobre Mim
+Bem-vindo ao meu perfil do GitHub! Sou um profissional focado em **Análise de Dados**, com interesse em várias ferramentas e linguagens de programação para explorar, processar e visualizar dados de forma eficaz.
 - 🔍 Dedicado em transformar dados em insights para a tomada de decisões.
 - 📊 Focado em **Análise de Dados** e **Visualização de Dados**.
 - 🌱 Sempre em busca de aprender novas ferramentas e técnicas para aprimorar minhas habilidades.
