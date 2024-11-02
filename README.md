@@ -1,36 +1,23 @@
-### Olá, me chamo Yuri!  <br><br>
- 
-Estudo análise de dados e procuro aprender mais sobre como extrair conhecimento dos dados.<br><br>
-As ferramentas que utilizo são:<br><br>
-&nbsp;
-<img src="https://img.icons8.com/color/48/000000/power-bi.png"/> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/48/000000/ms-excel.png"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="48px" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+# Olá! 👋 me chamo Yuri!
 
-Power BI    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-SQL Server  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Excel       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-MySQL       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-PostgreSQL  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-Python
+Bem-vindo ao meu perfil do GitHub! Sou um profissional focado em **Análise de Dados**, com interesse em várias ferramentas e linguagens de programação para explorar, processar e visualizar dados de forma eficaz.
 
-<!--
-**YuriKnebel/YuriKnebel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+- 🔍 Dedicado em transformar dados em insights para a tomada de decisões.
+- 📊 Focado em **Análise de Dados** e **Visualização de Dados**.
+- 🌱 Sempre em busca de aprender novas ferramentas e técnicas para aprimorar minhas habilidades.
 
+## Linguagens e Ferramentas
+Aqui estão algumas das linguagens e ferramentas que utilizo no meu dia a dia:
 
+- **Linguagens de Programação**:
+  - ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  - ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+  - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Ferramentas de Análise e Visualização**:
+  - ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+  - ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+## Contato
+- [LinkedIn](https://www.linkedin.com/in/yuriknebel/) 💼
