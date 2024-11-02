@@ -1,5 +1,3 @@
-# Olá! 👋 me chamo Yuri!
-
 Bem-vindo ao meu perfil do GitHub! Sou um profissional focado em **Análise de Dados**, com interesse em várias ferramentas e linguagens de programação para explorar, processar e visualizar dados de forma eficaz.
 
 ## Sobre Mim
